@@ -8,9 +8,9 @@ Code の下に Interface の内容が追加されます。
 
 #### ファイル一覧
 - read-csv フォルダ (Github OK, Functions)
- - NetLogo で CSV ファイルを読み込む。
- - string-split を使用している。
- - test.csv, test.xlsx は読み込み用のデータファイル。
+  - NetLogo で CSV ファイルを読み込む。
+  - string-split を使用している。
+  - test.csv, test.xlsx は読み込み用のデータファイル。
 - Flatten (Github OK, Functions)
   - 多次元リストをフラット化する自作関数 flatten のテスト。
 - ForLoop (Github OK)
