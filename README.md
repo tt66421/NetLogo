@@ -6,4 +6,4 @@ Code の下に Interface の内容が追加されます。
 テキストエディタで .nlogo ファイルを開いても、このように表示されます。
 
 - PrintShowTypeWrite
-print, show, type, write の違いの確認
+- - print, show, type, write の違いの確認
