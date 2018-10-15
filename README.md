@@ -5,6 +5,7 @@ NetLogo の .nlogo ファイルを Github で見ると、Interface がソース�
 Code の下に Interface の内容が追加されます。
 テキストエディタで .nlogo ファイルを開いても、このように表示されます。
 
+### ファイル一覧
 - Flatten (Github OK)
   - 多次元リストをフラット化する自作関数 flatten のテスト
 - ForLoop (Github OK)
@@ -15,5 +16,6 @@ Code の下に Interface の内容が追加されます。
 - PrintShowTypeWrite (Github ??)
   - print, show, type, write の違いの確認
 
+### 凡例
 - Github OK: Github 上で見て内容がそれなりに分かるもの
 - Github ??: ダウンロードして NetLogo で見ないと、内容がよく分からないもの
